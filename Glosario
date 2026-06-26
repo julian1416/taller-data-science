@@ -4,3 +4,38 @@ En python recorrer textos se usa como:
 El inicio: Desde dónde empiezas a contar.
 El fin: Hasta dónde llegas.
 El paso: De cuánto en cuánto vas saltando.
+
+
+
+Pandas: Librería de Python especializada en organizar datos en tablas estructuradas (DataFrames).
+
+Jupyter Notebook: Entorno interactivo organizado por celdas para ejecutar código paso a paso.
+
+Git / GitHub: Herramientas para controlar versiones y respaldar tus proyectos de código en la nube.
+
+Booleano (bool): Tipo de dato lógico que solo responde True (Verdadero) o False (Falso).
+
+Concatenación: Operación de unir o pegar dos textos o dos listas usando el signo +.
+
+Tupla (tuple): Colección ordenada e inmutable (no se puede modificar) entre paréntesis ().
+
+Lista (list): Colección ordenada y modificable de elementos entre corchetes [].
+
+Valor (value): El contenido o dato guardado dentro de una llave específica.
+
+Llave (key): La etiqueta o identificador único para buscar un dato dentro del diccionario.
+
+Diccionario (dict): Estructura Llave-Valor. Funciona como una caja organizada por etiquetas únicas.
+
+
+
+Comandos Basicos para Trabajar en Git
+git status : Comando para verificar qué archivos han cambiado o están listos para guardarse.
+
+git add . : Comando para preparar/empaquetar todos los archivos modificados del taller.
+
+git commit -m "mensaje" : Comando para guardar los cambios localmente con una etiqueta descriptiva.
+
+git push origin rama2 : Comando para subir/enviar tus cambios guardados directamente a la rama de GitHub.
+
+git branch : Comando para revisar en qué rama (como rama2) estás parada trabajando.
