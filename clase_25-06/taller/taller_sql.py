@@ -8,7 +8,7 @@ def ejecutar_taller():
     
     try:
         # Carga del dataset y creación de tabla manual (vía pandas para eficiencia)
-        df = pd.read_csv('../FuelConsumptionCo2.csv')
+        df = pd.read_csv('FuelConsumptionCo2.csv')
         df.to_sql('fuel_consumption', conn, if_exists='replace', index=False)
         print(f"Base de datos '{db_name}' creada y dataset cargado.\n")
 
