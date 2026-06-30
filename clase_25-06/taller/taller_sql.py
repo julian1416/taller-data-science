@@ -1,3 +1,4 @@
+#Estudiante: Julián David Rojas Román
 import sqlite3
 import pandas as pd
 
